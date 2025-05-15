@@ -1,0 +1,18 @@
+* protocolos
+
+os protocos são considerados as linguagens usadas pelos compactadores nas redes, ou seja, para se comunicar os hosts devem estar usando os mesmos protocolos.
+
+os protocolos são responsáveis por: 
+
+- criptografia dos dados
+- segurança das informações
+- endereçamento dos dados
+- roteamento das informações
+- verificação e correção de erros e falhas
+- qualidade de serviço
+- garantia de entrega das informações
+- etc.
+
+* Modelo de referência OSI quando os primeiras redes de computadores  surgiram, a "ISO" (orgao internacional de padroes) criou o chamado "modelo de referência OST (OPEN SYSTEM INTERCONECTION) com o intuito que "hosts" de diferentes  fabricantes pudessem se comuicar utilizando redes, diferentes proprietarios. Com isso, o modelo de referencia OST organiza todos os funcionalidades da rede em chamadas.
+
+cada camada, possui funcoes exclusivas e que sao indispensaveis no processo de comunicacao. As informacoes que cada camada adiciona no processo de comunicacao so podera ser compreendida pela sua repectiva camada no receptor. É por esse motivo que e dito que a comunicacao entre camadas acontece aos pares
